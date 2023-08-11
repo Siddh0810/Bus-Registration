@@ -1,0 +1,10 @@
+location-rajkot-junagadh time-9:00pm cost-300 tic-1 seat,1,2,8,9,10
+location-junagadh-rajkot time-9:45pm cost-300 tic-2 seat,1,7,16,12,20
+location-rajkot-ahmedabad time-10:30pm cost-350 tic-3 seat,5,6,8,11,1,2,3
+location-ahmedabad-rajkot time-11:15pm cost-350 tic-4 seat,10,8,9
+location-rajkot-ahmedabad time-1:30pm cost-450 tic-5 seat,5,6,8,11,2,3,4,10,13,14,15
+location-ahmedabad-rajkot time-1:15pm cost-450 tic-5 seat,10,8,9,2,3,4,10,13,14,15
+location-junagadh-ahmedabad time-11:30pm cost-800 tic-7 seat,1,8,12,6,7
+location-ahmedabad-junagadh time-1:00pm cost-800 tic-8 seat,5,6,8,11,13,15
+location-surat-ahmedabad time-9:00am cost-450 tic-9 seat,10,8,15
+location-ahmedabad-surat time-10:00am cost-450 tic-10 seat,1,5
